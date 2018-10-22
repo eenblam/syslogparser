@@ -3,10 +3,12 @@ Syslogparser
 
 This is a syslog parser for the Go programming language.
 
+Forked from [github.com/jeromer/syslogparser](https://github.com/jeromer/syslog[parser).
+
 Installing
 ----------
 
-go get github.com/jeromer/syslogparser
+go get github.com/eenblam/syslogparser
 
 Supported RFCs
 --------------
